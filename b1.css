@@ -1,0 +1,15 @@
+.aircraft img{
+    width: 30%;
+    align-items: center;
+
+}
+.aircraft{
+    margin-left: 10%;
+}
+body {
+    background: url('background2.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
